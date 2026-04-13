@@ -8,6 +8,8 @@ Glavni cilj projekta je povećanje učinkovitosti organizacije festivala kroz ce
 * Sustavno praćenje financija (prihodi, rashodi, sponzorstva).
 * Analitiku povijesnih podataka za optimizaciju budućih izdanja festivala.
 
+Projekt se izvodi prema **iterativnom modelu** ćivotnog ciklusa.
+
 ---
 
 ## Projektni tim i uloge
@@ -20,10 +22,7 @@ Projektni tim i uloge su definirani u svrhu simulacije i prezentacije upravljanj
 | **Marin** | **Frontend Developer** | UI/UX dizajn (Figma), razvoj korisničkog sučelja i vizualizacija podataka. |
 | **Petra** | **QA & Tech Writer** | Testiranje sustava (Bug hunting), izrada priručnika i dokumentacije. |
 
----
 
-## Model razvoja i dinamika
-Projekt se izvodi prema **Iterativnom modelu** životnog ciklusa.
 ---
 
 ## Detaljan plan i Raspored (2026)
